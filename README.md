@@ -11,12 +11,12 @@ The goal of this project is to restore images that have degraded over time or ha
 - Image Colorization: Adding natural colors to black-and-white or faded images.
 
 ## Installation steps
-* Clone this project to your local
-  >git clone
+* Clone this project
+  ``` git clone ```
 * Run this command in your terminal
-  > pip install Requirements.txt
+  ``` pip install Requirements.txt ```
 * Run the app
-  > py app.py
+  ``` py app.py ```
 
 ## Special mentions
 

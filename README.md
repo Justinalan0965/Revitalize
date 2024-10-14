@@ -29,3 +29,10 @@ The goal of this project is to restore images that have degraded over time or ha
 
 ## License
 This project under construction, license will be determined upon the release.
+
+
+
+```console
+foo@bar:~$ whoami
+foo
+```

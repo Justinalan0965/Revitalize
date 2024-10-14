@@ -12,11 +12,17 @@ The goal of this project is to restore images that have degraded over time or ha
 
 ## Installation steps
 * Clone this project
-  ``` git clone ```
+  ```Console
+   git clone
+  ```
 * Run this command in your terminal
-  ``` pip install Requirements.txt ```
+  ```Console
+   pip install Requirements.txt
+  ```
 * Run the app
-  ``` py app.py ```
+  ```Console
+   py app.py
+  ```
 
 ## Special mentions
 
@@ -32,7 +38,4 @@ This project under construction, license will be determined upon the release.
 
 
 
-```console
-foo@bar:~$ whoami
-foo
-```
+

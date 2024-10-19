@@ -34,7 +34,7 @@ The goal of this project is to restore images that have degraded over time or ha
 * <b>Under Debugging:</b> The project is still in the debugging phase, and certain features may not work as expected. This repository will serve as a development log while I continue to refine the models and optimize the system.
 
 ## License
-This project under construction, license will be determined upon the release.
+This project is under construction, license will be determined upon the release.
 
 
 
